@@ -1,5 +1,5 @@
 Ionic 4, Angular 8 and Cordova WaterMarkApp Example
-This source code is part of Ionic 4, Angular 8 and Cordova WaterMarkApp  Example tutorial to Add image, creation if 4 tempalate and save base64 image to gallery using cordova plugin
+This source code is part of Ionic 4, Angular 8 and Cordova WaterMarkApp  Example tutorial to Add image, creation of 4 tempalate with watermark and save base64 image to gallery using cordova plugin
 
 To run in the real device:
 
