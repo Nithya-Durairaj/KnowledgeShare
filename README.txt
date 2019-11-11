@@ -4,6 +4,7 @@ This source code is part of Ionic 4, Angular 8 and Cordova WaterMarkApp  Example
 To run in the real device:
 
 $ Clone this repo
+extact the resource and src zip with the same project path
 $ Run npm install
 $ Run ionic cordova platform rm ios
 $ Run ionic cordova platform add ios
