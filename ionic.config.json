@@ -1,0 +1,7 @@
+{
+  "name": "watermarkApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
