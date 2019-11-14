@@ -15,8 +15,9 @@ Plugin Details:
 Camera
 $ ionic cordova plugin add cordova-plugin-camera
 $ npm install @ionic-native/camera
-Base64 to gallery
-$ ionic cordova plugin add cordova-base64-to-gallery
+File Transfer Plugin
+$ cordova-plugin-file-transfer
+$ cordova-plugin-photo-library
 
 Run the project:
 
